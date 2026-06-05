@@ -3,7 +3,7 @@ import { Message, ModelMode } from "../types";
 
 // Always use process.env.GEMINI_API_KEY as the source for the API key.
 // The environment handles key management.
-const apiKey = process.env.GEMINI_API_KEY || "AIzaSyDsyyTwNVU5Is6f_1f5WezR2QxB4DdvQSk";
+const apiKey = process.env.GEMINI_API_KEY || "AQ.Ab8RN6JJum4tz1biKrsfTWsnOCUUlqA_Fwy-A6hP9TmOvgLJCg";
 const ai = new GoogleGenAI({ apiKey: apiKey || "" });
 
 const MODEL_MAP = {
