@@ -1,0 +1,8 @@
+{
+  "name": " RunCode Maker Work",
+  "description": "An AI-powered assistant for generating game runcode in Lua, with mobile-friendly chat UI and context-aware file intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
